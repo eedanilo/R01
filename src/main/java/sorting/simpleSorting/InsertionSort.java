@@ -1,5 +1,4 @@
 package sorting.simpleSorting;
-import util.Util;
 import sorting.AbstractSorting;
 
 /**
